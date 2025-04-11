@@ -3,3 +3,7 @@ streamlit
 langchain_core
 dotenv
 langchain
+langserve
+fastapi
+uvicorn
+sse_starlette
